@@ -8,8 +8,7 @@ title: Jared Green's Resume
 
 ## Education
 
-`Expected 2022
-__Brigham Young University - Idaho__, Rexburg, ID
+__Brigham Young University - Idaho - B.S. Software Engineering__, Rexburg, ID - `Expected Graduation 2022`
 
 - 3.3 Major GPA
 
@@ -18,21 +17,18 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Employment
 
-`January 2021 - Current`
-__Idaho Central Credit Union__, Pocatello, ID
+__Idaho Central Credit Union__, Pocatello, ID - `January 2021 - Current`
 
-- Responsible for management and upkeep of intranet site used company wide.
-- Responsible for coordinating content and software updates for intranet with internal teams.
-- Used PHP, JS, html, css, and MSSQL to create UI driven database interfaces.
+- Managed the upkeep of company intranet pages.
+- Coordinated content and software updates for intranet across a team of `x members/employees`.
+- Used PHP, JavaScript, HTML, CSS, and MSSQL to create User Interfaces driven by database interfaces/objects/contracts `- any works but having the word interfaces twice is kind of weird even though that is what it is`.
 - Utilized JQuery and mongoDB in order to maintain and further develop a project centered around gathering feedback and ideas from employees.
-- Worked with project managers and stakeholders to determine project requirements and further develop these requirements into full-fledged features.
+- Worked with project managers and stakeholders to determine project requirements and develop those requirements into software features.
 
 __Awards__
-- Achieve the rank of Eagle Scout in the Boy Scouts of America in 2017
+- Achieved the rank of Eagle Scout in the Boy Scouts of America in 2017
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: April 2022 -->
