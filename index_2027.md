@@ -8,7 +8,7 @@ title: Jared Green's Resume
 
 ## Education
 
-__Brigham Young University - Idaho - B.S. Software Engineering__, Rexburg, ID - `Expected 2022`
+__Brigham Young University - Idaho - B.S. Software Engineering__, Rexburg, ID - `Expected Graduation 2022`
 
 - 3.3 Major GPA
 
