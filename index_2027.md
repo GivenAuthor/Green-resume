@@ -17,8 +17,7 @@ __Brigham Young University - Idaho - B.S. Software Engineering__, Rexburg, ID - 
 
 ### Employment
 
-`January 2021 - Current`
-__Idaho Central Credit Union__, Pocatello, ID
+__Idaho Central Credit Union__, Pocatello, ID - `January 2021 - Current`
 
 - Managed the upkeep of company intranet pages.
 - Coordinated content and software updates for intranet across a team of `x members/employees`.
